@@ -1,0 +1,35 @@
+[
+    {
+        "_id": "69e123549eb8f3a6801fb60b",
+        "spider_name": "vneconomy_sitemap",
+        "status": "running",
+        "progress_pct": 1,
+        "items_crawled": 1194,
+        "updated_at": "2026-04-16T18:05:18.346000",
+        "date_from": "2021-01-01T00:00:00",
+        "date_to": "2026-04-16T00:00:00",
+        "created_at": "2026-04-16T17:58:44.384000"
+    },
+    {
+        "_id": "69e124df9eb8f3a6801fb611",
+        "spider_name": "vneconomy_sitemap",
+        "status": "running",
+        "progress_pct": 0,
+        "items_crawled": 0,
+        "updated_at": "2026-04-16T18:05:19.942000",
+        "date_from": "2021-01-01T00:00:00",
+        "date_to": "2026-04-16T00:00:00",
+        "created_at": "2026-04-16T18:05:19.943000"
+    },
+    {
+        "_id": "69e27b3f14f41aaa72e7c09b",
+        "spider_name": "vneconomy_sitemap",
+        "status": "completed",
+        "progress_pct": 100,
+        "items_crawled": 101033,
+        "updated_at": "2026-04-18T03:24:34.100000",
+        "date_from": "2021-01-01T00:00:00",
+        "date_to": "2026-04-17T00:00:00",
+        "created_at": "2026-04-17T18:26:07.418000"
+    }
+]

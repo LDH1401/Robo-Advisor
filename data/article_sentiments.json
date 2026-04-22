@@ -1,0 +1,233 @@
+[
+    {
+        "_id": "69e5131dc6d03e2372805a11",
+        "model_version": "rule_based_v1",
+        "article_id": "69e2d61d14f41aaa72e7c249",
+        "confidence_score": 0.5897,
+        "created_at": "2026-04-20T00:38:37.465000",
+        "event_type": "unknown",
+        "mentioned_companies": [],
+        "mentioned_tickers": [
+            "CMS",
+            "SJC",
+            "SPDR",
+            "XIV",
+            "XVI"
+        ],
+        "ml_score": null,
+        "relevance_score": 0.5663,
+        "rule_score": 1.0,
+        "sentiment_label": "positive",
+        "sentiment_score": 1.0,
+        "updated_at": "2026-04-20T00:38:37.465000",
+        "weighted_sentiment_score": 0.5663
+    },
+    {
+        "_id": "69e5131dc6d03e2372805a12",
+        "model_version": "rule_based_v1",
+        "article_id": "69e2d61d14f41aaa72e7c24a",
+        "confidence_score": 0.5895,
+        "created_at": "2026-04-20T00:38:37.494000",
+        "event_type": "unknown",
+        "mentioned_companies": [],
+        "mentioned_tickers": [
+            "CMS",
+            "SJC",
+            "SPDR",
+            "XIV",
+            "XVI"
+        ],
+        "ml_score": null,
+        "relevance_score": 0.535,
+        "rule_score": 1.0,
+        "sentiment_label": "positive",
+        "sentiment_score": 1.0,
+        "updated_at": "2026-04-20T00:38:37.494000",
+        "weighted_sentiment_score": 0.535
+    },
+    {
+        "_id": "69e5131dc6d03e2372805a13",
+        "model_version": "rule_based_v1",
+        "article_id": "69e1236b9eb8f3a6801fb60c",
+        "confidence_score": 0.5908,
+        "created_at": "2026-04-20T00:38:37.526000",
+        "event_type": "unknown",
+        "mentioned_companies": [],
+        "mentioned_tickers": [
+            "CMS",
+            "SJC",
+            "XIV",
+            "XVI"
+        ],
+        "ml_score": null,
+        "relevance_score": 0.535,
+        "rule_score": 1.0,
+        "sentiment_label": "positive",
+        "sentiment_score": 1.0,
+        "updated_at": "2026-04-20T00:38:37.526000",
+        "weighted_sentiment_score": 0.535
+    },
+    {
+        "_id": "69e5131dc6d03e2372805a14",
+        "article_id": "69e27b5c14f41aaa72e7c09c",
+        "model_version": "rule_based_v1",
+        "confidence_score": 0.5909,
+        "created_at": "2026-04-20T00:38:37.555000",
+        "event_type": "unknown",
+        "mentioned_companies": [],
+        "mentioned_tickers": [
+            "CMS",
+            "SJC",
+            "XIV",
+            "XVI"
+        ],
+        "ml_score": null,
+        "relevance_score": 0.535,
+        "rule_score": 1.0,
+        "sentiment_label": "positive",
+        "sentiment_score": 1.0,
+        "updated_at": "2026-04-20T00:38:37.555000",
+        "weighted_sentiment_score": 0.535
+    },
+    {
+        "_id": "69e5131dc6d03e2372805a15",
+        "model_version": "rule_based_v1",
+        "article_id": "69e1236b9eb8f3a6801fb60d",
+        "confidence_score": 0.5899,
+        "created_at": "2026-04-20T00:38:37.583000",
+        "event_type": "unknown",
+        "mentioned_companies": [
+            "FPT"
+        ],
+        "mentioned_tickers": [
+            "CMS",
+            "FPT",
+            "SJC",
+            "XIV",
+            "XVI"
+        ],
+        "ml_score": null,
+        "relevance_score": 0.535,
+        "rule_score": 1.0,
+        "sentiment_label": "positive",
+        "sentiment_score": 1.0,
+        "updated_at": "2026-04-20T00:38:37.583000",
+        "weighted_sentiment_score": 0.535
+    },
+    {
+        "_id": "69e5131dc6d03e2372805a16",
+        "article_id": "69e27b5c14f41aaa72e7c09d",
+        "model_version": "rule_based_v1",
+        "confidence_score": 0.59,
+        "created_at": "2026-04-20T00:38:37.614000",
+        "event_type": "unknown",
+        "mentioned_companies": [
+            "FPT"
+        ],
+        "mentioned_tickers": [
+            "CMS",
+            "FPT",
+            "SJC",
+            "XIV",
+            "XVI"
+        ],
+        "ml_score": null,
+        "relevance_score": 0.535,
+        "rule_score": 1.0,
+        "sentiment_label": "positive",
+        "sentiment_score": 1.0,
+        "updated_at": "2026-04-20T00:38:37.614000",
+        "weighted_sentiment_score": 0.535
+    },
+    {
+        "_id": "69e5131dc6d03e2372805a17",
+        "model_version": "rule_based_v1",
+        "article_id": "69e27b5c14f41aaa72e7c09e",
+        "confidence_score": 0.5908,
+        "created_at": "2026-04-20T00:38:37.643000",
+        "event_type": "unknown",
+        "mentioned_companies": [
+            "FPT"
+        ],
+        "mentioned_tickers": [
+            "CMS",
+            "FPT",
+            "SJC",
+            "XIV",
+            "XVI"
+        ],
+        "ml_score": null,
+        "relevance_score": 0.535,
+        "rule_score": 1.0,
+        "sentiment_label": "positive",
+        "sentiment_score": 1.0,
+        "updated_at": "2026-04-20T00:38:37.643000",
+        "weighted_sentiment_score": 0.535
+    },
+    {
+        "_id": "69e5131dc6d03e2372805a18",
+        "article_id": "69e1236b9eb8f3a6801fb60e",
+        "model_version": "rule_based_v1",
+        "confidence_score": 0.5905,
+        "created_at": "2026-04-20T00:38:37.672000",
+        "event_type": "unknown",
+        "mentioned_companies": [],
+        "mentioned_tickers": [
+            "CMS",
+            "SJC",
+            "XIV",
+            "XVI"
+        ],
+        "ml_score": null,
+        "relevance_score": 0.535,
+        "rule_score": 1.0,
+        "sentiment_label": "positive",
+        "sentiment_score": 1.0,
+        "updated_at": "2026-04-20T00:38:37.672000",
+        "weighted_sentiment_score": 0.535
+    },
+    {
+        "_id": "69e5131dc6d03e2372805a19",
+        "article_id": "69e27b5c14f41aaa72e7c09f",
+        "model_version": "rule_based_v1",
+        "confidence_score": 0.5906,
+        "created_at": "2026-04-20T00:38:37.702000",
+        "event_type": "unknown",
+        "mentioned_companies": [],
+        "mentioned_tickers": [
+            "CMS",
+            "SJC",
+            "XIV",
+            "XVI"
+        ],
+        "ml_score": null,
+        "relevance_score": 0.535,
+        "rule_score": 1.0,
+        "sentiment_label": "positive",
+        "sentiment_score": 1.0,
+        "updated_at": "2026-04-20T00:38:37.702000",
+        "weighted_sentiment_score": 0.535
+    },
+    {
+        "_id": "69e5131dc6d03e2372805a1a",
+        "article_id": "69e1236c9eb8f3a6801fb60f",
+        "model_version": "rule_based_v1",
+        "confidence_score": 0.5904,
+        "created_at": "2026-04-20T00:38:37.731000",
+        "event_type": "unknown",
+        "mentioned_companies": [],
+        "mentioned_tickers": [
+            "CMS",
+            "SJC",
+            "XIV",
+            "XVI"
+        ],
+        "ml_score": null,
+        "relevance_score": 0.535,
+        "rule_score": 1.0,
+        "sentiment_label": "positive",
+        "sentiment_score": 1.0,
+        "updated_at": "2026-04-20T00:38:37.731000",
+        "weighted_sentiment_score": 0.535
+    }
+]

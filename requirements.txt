@@ -1,0 +1,9 @@
+pandas
+numpy
+torch
+scikit-learn
+joblib
+matplotlib
+pymongo
+certifi
+python-dotenv

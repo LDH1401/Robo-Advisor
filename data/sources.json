@@ -1,0 +1,23 @@
+[
+    {
+        "_id": "69e0eb17356bd5d55e062188",
+        "name": "test_source",
+        "created_at": "2026-04-16T20:58:47.200000"
+    },
+    {
+        "_id": "69e12354c6d03e23727fd9fa",
+        "name": "vneconomy",
+        "category": "news",
+        "created_at": "2026-04-16T17:58:44.346000",
+        "domain": "vneconomy.vn",
+        "updated_at": "2026-04-17T18:26:07.385000"
+    },
+    {
+        "_id": "69e1251dc6d03e23727fd9fc",
+        "name": "vnstock_kbs",
+        "category": "stock",
+        "created_at": "2026-04-16T18:06:21.718000",
+        "domain": "kbs.com.vn",
+        "updated_at": "2026-04-17T07:55:00.782000"
+    }
+]

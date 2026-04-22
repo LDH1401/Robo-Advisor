@@ -1,0 +1,14 @@
+[
+    {
+        "_id": "69e0eb17c6d03e23727fd9a9",
+        "url": "https://example.com/test",
+        "created_at": "2026-04-16T20:58:47.263000",
+        "source_id": "69e0eb17356bd5d55e062188",
+        "status": "completed",
+        "updated_at": "2026-04-16T21:03:18.561000",
+        "url_hash": "hash123",
+        "error_message": null,
+        "http_status": 200,
+        "last_crawled_at": "2026-04-16T21:03:18.602000"
+    }
+]
